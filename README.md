@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <h3>🎧 What's Powering My Brain Right Now</h3>
+  <h3>🎧 Music Taste Ngani</h3>
   <a href="https://github.com/Kittinan/spotify-recently-played-readme-vercel">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wjwqa7gw138gs6efbc3aywhdu&count=5" alt="Spotify Recently Played" />
   </a>
