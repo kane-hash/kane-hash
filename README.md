@@ -1,17 +1,29 @@
 <p align="center">
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=300&section=header&text=kane&fontSize=90&pauseAnimation=false&animation=fadeIn&fontAlignY=38" /></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fca311&height=250&section=header&text=Kane&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+with+AI+%2B+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=fca311&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+with+AI+%2B+Node.js;Exploring+Hugging+Face+Inference" alt="Typing SVG" />
 </p>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kane-hash/kane-hash/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kane-hash/kane-hash/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kane-hash/kane-hash/output/github-snake.svg">
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Kittinan/spotify-recently-played-readme-vercel">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wjwqa7gw138gs6efbc3aywhdu&count=5" alt="Spotify Recently Played" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kane-hash/kane-hash/output/github-snake.svg" alt="Snake" />
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=wjwqa7gw138gs6efbc3aywhdu" alt="Spotify" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fca311&height=280&section=header&text=Denver&fontSize=90&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Blurred Orange Header" />
 </p>
