@@ -1,5 +1,5 @@
 <p align="center">
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=300&section=header&text=kane-hash&fontSize=90&pauseAnimation=false&animation=fadeIn&fontAlignY=38" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=300&section=header&text=kane&fontSize=90&pauseAnimation=false&animation=fadeIn&fontAlignY=38" /></p>
 </p>
 
 <p align="center">
