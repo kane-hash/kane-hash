@@ -24,6 +24,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:FFA500,100:FFD700&text=Denver&fontSize=55&fontColor=ffffff&fontAlignY=45&stroke=ffffff&strokeWidth=1.5" alt="Small Orange Blur Header" />
-</p>
+
