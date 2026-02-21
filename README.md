@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=fca311&center=true&vCenter=true&width=500&lines=Mother+fucker+by+Day;+Engineer+by+Night;bro+what+are+we+doing+tho" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=fca311&center=true&vCenter=true&width=500&lines=Motherfucker+by+Day;+Engineer+by+Night;bro+what+are+we+doing+tho" alt="Typing SVG" />
 </p>
 
 <p align="center">
