@@ -1,10 +1,10 @@
 <p align="center">
- <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kane-#&fontSize=90&pauseAnimation=false&animation=fadeIn&fontAlignY=38" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=300&section=header&text=kane-hash&fontSize=90&pauseAnimation=false&animation=fadeIn&fontAlignY=38" /></p>
 </p>
 
 <p align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+with+AI+%2B+Node.js;Currently+learning+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+with+AI+%2B+Node.js" alt="Typing SVG" />
 </p>
 </p>
 
