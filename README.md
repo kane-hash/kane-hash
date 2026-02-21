@@ -1,5 +1,5 @@
 <p align="center">
- <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kane #&fontSize=90&pauseAnimation=false&animation=fadeIn&fontAlignY=38" /></p>
+ <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kane-#&fontSize=90&pauseAnimation=false&animation=fadeIn&fontAlignY=38" /></p>
 </p>
 
 <p align="center">
