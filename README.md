@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=999999&center=true&vCenter=true&width=400&lines=End+of+the+line...;Go+build+something+cool." alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=999999&center=true&vCenter=true&width=400&lines=Im+Cooked+af...;Im+going+crazyy+btw." alt="Footer" />
 </p>
