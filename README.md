@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fca311&height=280&section=header&text=Denver&fontSize=90&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Blurred Orange Header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:FFA500,100:FFD700&text=Denver&fontSize=70&fontColor=ffffff&fontAlignY=45&stroke=ffffff&strokeWidth=2" alt="Orange Blur Header" />
 </p>
