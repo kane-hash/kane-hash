@@ -8,3 +8,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kane-hash/kane-hash/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kane-hash/kane-hash/output/github-snake.svg">
 </picture>
+
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Denver&fontSize=90&pauseAnimation=false&animation=fadeIn&fontAlignY=38" /></p>
