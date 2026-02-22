@@ -13,7 +13,6 @@
 ---
 
 <div align="center">
-  <h3>🎧 Music Taste Ngani</h3>
   <a href="https://github.com/Kittinan/spotify-recently-played-readme-vercel">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wjwqa7gw138gs6efbc3aywhdu&count=5" alt="Spotify Recently Played" />
   </a>
@@ -22,7 +21,6 @@
 <br/>
 
 <div align="center">
-  <h3>🐍 The Contribution Hustle</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kane-hash/kane-hash/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kane-hash/kane-hash/output/github-snake.svg">
